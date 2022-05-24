@@ -1,2 +1,2 @@
-# playjenkins
-Jenkins Playground
+# For Jenkins
+Deploying into kubernetes with Jenkins
